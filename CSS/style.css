@@ -328,15 +328,22 @@ nav .fa-solid{
         background-image: url("../images/Background_phone.png");
     }
     .header-text{
-        margin-top: 100%;
-        font-size: 16px;
+        margin-top: 50%;
+        font-size: 14px;
     }
     .header-text h1{
-        font-size: 30px;
+        font-size: 25px;
+    }
+    .job{
+        font-size: 16px;
+    }
+    .desc{
+        font-size: 12px;
+        text-align:left;
     }
     nav .fa-solid{
         display: block;
-        font-size: 25px;
+        font-size: 15px;
     }
     nav ul{
         background: #d07f85;
@@ -359,6 +366,21 @@ nav .fa-solid{
         left: 25px;
         cursor: pointer;
     }
+    .btn.btn2{
+        margin-top: 8%;
+        font-size: 14px;
+        display: inline-block;
+        padding: 12px;
+    }
+    .connect{
+        margin-top: 40%;
+    }
+    .connect p{
+        font-size: 14px;
+    }
+    .connect a{
+        font-size: 20px;
+    }
     .subtitle{
         font-size: 40px;
     }
@@ -370,6 +392,7 @@ nav .fa-solid{
     }
     .about-col2{
         font-size: 14px;
+        text-align: left;
     }
     .tablinks{
         font-size: 16px;
