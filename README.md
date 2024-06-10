@@ -8,7 +8,7 @@ To view my portfolio online, visit [https://chhavii04.github.io/Portfolio/](http
 ## Screenshots
 
 ### Desktop View
-
+![Mobile Screenshot](/images/desktop-screenshot.png)
 
 ### Mobile View
-
+![Mobile Screenshot](/images/mobile-screenshot.png)
